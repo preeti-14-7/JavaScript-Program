@@ -7,7 +7,7 @@ function CheckLastDigit(number1,number2)
      let a = number1%10;
      let b = number2%10;
     
-     if(a == b)
+     if(a === b)
      {
         return(true);
      }
