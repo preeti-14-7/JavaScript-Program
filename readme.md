@@ -9,6 +9,7 @@
 - Question 5 : Write a JavaScript Program to Check if the two given Numbers Have Same Last Digit or not
 - Question 6: Write a Javascript program that returns only the even numbers from an array of integers.
 - Question 7 : Write a JavaScript program to check if expression has valid parenthesis.
+- Question 8 : Write a JavaScript program to find Armstrong number between intervals.
 - More Questions to be added soon!
 
 ## Author : Abhay Anand
