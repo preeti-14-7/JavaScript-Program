@@ -7,4 +7,4 @@ is_string = function(input) {
       return false;   
       };
   console.log(is_string('Tara Choudhary'));
-  console.log(is_string([1, 2, 4, 0]));
+  console.log(is_string(12345));
