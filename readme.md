@@ -10,6 +10,7 @@
 - Question 6: Write a Javascript program that returns only the even numbers from an array of integers.
 - Question 7 : Write a JavaScript program to check if expression has valid parenthesis.
 - Question 8 : Write a JavaScript program to find Armstrong number between intervals.
+- Question 9 : Write a JavaScript program to Check whether an input is a string or not.
 - More Questions to be added soon!
 
 ## Author : Abhay Anand
