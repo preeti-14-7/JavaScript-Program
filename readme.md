@@ -13,5 +13,5 @@
 - Question 9 : Write a JavaScript program to Check whether an input is a string or not.
 - More Questions to be added soon!
 
-## Author : Abhay Anand
+### Author : Abhay Anand
 
