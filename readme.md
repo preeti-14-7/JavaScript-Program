@@ -12,6 +12,7 @@
 - Question 8 : Write a JavaScript program to find Armstrong number between intervals.
 - Question 9 : Write a JavaScript program to Check whether an input is a string or not.
 - Question 10 : Write a JavaScript program to find the highest index at which a value should be inserted into an array in order to maintain its sort order.
+- Question 11 : Write a JavaScript program to show QuickSort Algorithm in JavaScript.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
