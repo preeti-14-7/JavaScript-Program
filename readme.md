@@ -14,6 +14,7 @@
 - Question 10 : Write a JavaScript program to find the highest index at which a value should be inserted into an array in order to maintain its sort order.
 - Question 11 : Write a JavaScript program to show QuickSort Algorithm in JavaScript.
 - Question 12 : Write a JavaScript program to Implement enqueue and dequeue using only two stacks
+- Question 13 : How to validate a form in JavaScript?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
