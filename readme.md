@@ -15,6 +15,7 @@
 - Question 11 : Write a JavaScript program to show QuickSort Algorithm in JavaScript.
 - Question 12 : Write a JavaScript program to Implement enqueue and dequeue using only two stacks
 - Question 13 : How to validate a form in JavaScript?
+- Question 14 : Write the code for adding new elements dynamically?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
