@@ -16,6 +16,7 @@
 - Question 12 : Write a JavaScript program to Implement enqueue and dequeue using only two stacks
 - Question 13 : How to validate a form in JavaScript?
 - Question 14 : Write the code for adding new elements dynamically?
+- Question 15 : How to validate email in JavaScript?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
