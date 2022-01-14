@@ -17,7 +17,7 @@
 - Question 13 : How to validate a form in JavaScript?
 - Question 14 : Write the code for adding new elements dynamically?
 - Question 15 : How to validate email in JavaScript?
-- Question 16 : What is currying in JavaScript?
+- Question 16 : Write a program to show currying in JavaScript?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
