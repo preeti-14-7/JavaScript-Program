@@ -18,6 +18,7 @@
 - Question 14 : Write the code for adding new elements dynamically?
 - Question 15 : How to validate email in JavaScript?
 - Question 16 : Write a program to show currying in JavaScript?
+- Question 17 : Write a function that performs binary search on a sorted array.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
