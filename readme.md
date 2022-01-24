@@ -20,6 +20,7 @@
 - Question 16 : Write a program to show currying in JavaScript?
 - Question 17 : Write a function that performs binary search on a sorted array.
 - Question 18 : Write a javascript program to show scope chain.
+- Question 19 : Testing your this knowledge in JavaScript: What is the output of the following code?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
