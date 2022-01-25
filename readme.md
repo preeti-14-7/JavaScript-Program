@@ -21,6 +21,7 @@
 - Question 17 : Write a function that performs binary search on a sorted array.
 - Question 18 : Write a javascript program to show scope chain.
 - Question 19 : Testing your this knowledge in JavaScript: What is the output of the following code?
+- Question 20 : Implement a function that returns an updated array with r right rotations on an array of integers a.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
