@@ -23,6 +23,7 @@
 - Question 19 : Testing your this knowledge in JavaScript: What is the output of the following code?
 - Question 20 : Implement a function that returns an updated array with r right rotations on an array of integers a.
 - Question 21 : Explain WeakSet in javascript.
+- Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
