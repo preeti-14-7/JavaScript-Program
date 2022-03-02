@@ -24,6 +24,7 @@
 - Question 20 : Implement a function that returns an updated array with r right rotations on an array of integers a.
 - Question 21 : Explain WeakSet in javascript.
 - Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
+- Question 23 : What are Exports & Imports?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
