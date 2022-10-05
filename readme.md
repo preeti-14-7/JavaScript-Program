@@ -27,7 +27,7 @@
 - Question 23 : What are Exports & Imports?
 - Question 24 : Write a program to create JavaScript object using object literal.
 - Question 25 : How to convert an Object {} into an Array [] in JavaScript?
-
+- Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
 - More Questions to be added soon!
