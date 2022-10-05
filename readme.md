@@ -30,6 +30,7 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+- Question 30 : Write a Javascript program to find number of trailing zeros in the factorial of a number
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
