@@ -27,6 +27,7 @@
 - Question 23 : What are Exports & Imports?
 - Question 24 : Write a program to create JavaScript object using object literal.
 - Question 25 : How to convert an Object {} into an Array [] in JavaScript?
+- Question 26 : Map, Filter and Reduce Explained.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
