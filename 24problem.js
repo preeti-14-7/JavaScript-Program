@@ -1,18 +1,19 @@
-/* program to check whether the last digit of three
-numbers is same */
+// program to remove duplicate value from an array
 
-const a = prompt('Enter a first integer: ');
-const b = prompt('Enter a second integer: ');
-const c = prompt('Enter a third integer: ');
+function getUnique(arr){
+    
+    let uniqueArr = [];
+    
 
-
-const result1 = a % 10;
-const result2 = b % 10;
-const result3 = c % 10;
-
-if(result1 == result2 && result1 == result3) {
-    console.log(`${a}, ${b} and ${c} have the same last digit.`);
+    for(let i of arr) {
+        if(uniqueArr.indexOf(i) === -1) {
+            uniqueArr.push(i);
+        }
+    }
+    console.log(uniqueArr);
 }
-else {
-    console.log(`${a}, ${b} and ${c} have different last digit.`);
-}
+
+const array = [1, 2, 3, 2, 3];
+
+
+getUnique(array);
