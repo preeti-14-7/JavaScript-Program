@@ -1,19 +1,8 @@
-// program to remove duplicate value from an array
+// program to convert date to number
 
-function getUnique(arr){
-    
-    let uniqueArr = [];
-    
-
-    for(let i of arr) {
-        if(uniqueArr.indexOf(i) === -1) {
-            uniqueArr.push(i);
-        }
-    }
-    console.log(uniqueArr);
-}
-
-const array = [1, 2, 3, 2, 3];
+const d1 = new Date();
+console.log(d1);
 
 
-getUnique(array);
+const result = d1.getTime();
+console.log(result);
