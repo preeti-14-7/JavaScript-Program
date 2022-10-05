@@ -26,6 +26,7 @@
 - Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
 - Question 23 : What are Exports & Imports?
 - Question 24 : Write a program to create JavaScript object using object literal.
+- Question 25 : How to convert an Object {} into an Array [] in JavaScript?
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
