@@ -25,6 +25,7 @@
 - Question 21 : Explain WeakSet in javascript.
 - Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
 - Question 23 : What are Exports & Imports?
+- Question 24 : program to check whether the last digit of three numbers is same
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
