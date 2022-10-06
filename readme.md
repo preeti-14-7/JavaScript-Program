@@ -25,13 +25,18 @@
 - Question 21 : Explain WeakSet in javascript.
 - Question 22 : Tell us about the difference between .call() and .apply() functions. Give an example of demonstrating the difference between the two JS functions.
 - Question 23 : What are Exports & Imports?
-- Question 24 : Write a program to create JavaScript object using object literal.
+- Question 24 : WAJP program to convert date to number.
 - Question 25 : How to convert an Object {} into an Array [] in JavaScript?
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
 - Question 29 : Write a program to print factorial of a number.
+- Question 30 : Write a Javascript program to find number of trailing zeros in the factorial of a number
+- Question 31 : Write a program to create JavaScript object using object literal.
+- Question 32 : JavaScript Program for MergeSort.
+- Question 33 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
 - More Questions to be added soon!
+
 
 ### Author : Abhay Anand
 
