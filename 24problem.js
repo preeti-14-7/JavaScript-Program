@@ -1,21 +1,8 @@
-// program to create JavaScript object using object literal
-const person = { 
-    name: 'John',
-    age: 20,
-    hobbies: ['reading', 'games', 'coding'],
-    greet: function() {
-        console.log('Hello everyone.');
-    },
-    score: {
-        maths: 90,
-        science: 80
-    }
-};
+// program to convert date to number
 
-console.log(typeof person); // object
+const d1 = new Date();
+console.log(d1);
 
-// accessing the object value
-console.log(person.name);
-console.log(person.hobbies[0]);
-person.greet();
-console.log(person.score.maths);
+
+const result = d1.getTime();
+console.log(result);
