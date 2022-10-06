@@ -30,6 +30,7 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+- Question 29 : Write a program to print factorial of a number.
 - More Questions to be added soon!
 
 ### Author : Abhay Anand
