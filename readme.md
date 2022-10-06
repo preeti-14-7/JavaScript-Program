@@ -30,11 +30,13 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
-- Question 29 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
+
 - Question 30 : Write a Javascript program to find number of trailing zeros in the factorial of a number
 - Question 31 : Write a program to create JavaScript object using object literal.
 - Question 32 : JavaScript Program for MergeSort.
+- Question 33 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
 - More Questions to be added soon!
+
 
 ### Author : Abhay Anand
 
