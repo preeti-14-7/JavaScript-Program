@@ -30,6 +30,7 @@
 - Question 26 : Print first 10 Fibonacci numbers
 - Question 27 : Write a JavaScript program to find fibonacci series.
 - Question 28 : Map, Filter and Reduce Explained.
+- Question 29 : Write a JavaScript program to display the current day and time in the following format. Today is : Tuesday. Current time is : 10 PM : 30 : 38
 - Question 32 : JavaScript Program for MergeSort.
 - More Questions to be added soon!
 
